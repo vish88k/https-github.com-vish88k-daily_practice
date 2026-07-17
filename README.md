@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0520-detect-capital) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
@@ -130,9 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
