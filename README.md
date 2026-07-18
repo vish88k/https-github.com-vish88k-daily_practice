@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0503-next-greater-element-ii) |
 | [0896-monotonic-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0896-monotonic-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1089-duplicate-zeros) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0633-sum-of-square-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0989-add-to-array-form-of-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
