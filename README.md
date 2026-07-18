@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1768-merge-strings-alternately) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
