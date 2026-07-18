@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0234-palindrome-linked-list) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0509-fibonacci-number) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0509-fibonacci-number) |
