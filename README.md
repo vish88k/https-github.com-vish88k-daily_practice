@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1089-duplicate-zeros) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
