@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0069-sqrtx) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
