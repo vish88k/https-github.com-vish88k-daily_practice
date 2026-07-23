@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0633-sum-of-square-numbers) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0633-sum-of-square-numbers) |
 ## Design
 |  |
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
