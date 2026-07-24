@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
