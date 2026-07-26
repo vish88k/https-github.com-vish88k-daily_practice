@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
