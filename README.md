@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0414-third-maximum-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0389-find-the-difference) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0389-find-the-difference) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3866-first-unique-even-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3866-first-unique-even-element) |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1095-find-in-mountain-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
