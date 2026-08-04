@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3452-sum-of-good-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3452-sum-of-good-numbers) |
+| [3731-find-missing-elements](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3731-find-missing-elements](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [3731-find-missing-elements](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
