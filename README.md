@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
