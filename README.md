@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0496-next-greater-element-i) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3866-first-unique-even-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3866-first-unique-even-element) |
