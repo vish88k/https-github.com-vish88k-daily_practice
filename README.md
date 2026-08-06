@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0989-add-to-array-form-of-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
