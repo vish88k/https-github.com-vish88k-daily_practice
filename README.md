@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0287-find-the-duplicate-number) |
