@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0016-3sum-closest) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0242-valid-anagram) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Interactive
 |  |
@@ -262,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
