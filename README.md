@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0509-fibonacci-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
 ## String Matching
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
