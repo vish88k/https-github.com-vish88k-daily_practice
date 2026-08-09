@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0242-valid-anagram) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
