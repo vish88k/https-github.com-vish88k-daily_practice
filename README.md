@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3703-remove-k-balanced-substrings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3703-remove-k-balanced-substrings) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3703-remove-k-balanced-substrings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3703-remove-k-balanced-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
+| [3703-remove-k-balanced-substrings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3703-remove-k-balanced-substrings) |
 ## String Matching
 |  |
 | ------- |
