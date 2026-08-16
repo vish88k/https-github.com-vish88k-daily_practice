@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0415-add-strings) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0059-spiral-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
