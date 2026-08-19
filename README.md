@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0989-add-to-array-form-of-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
