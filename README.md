@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
