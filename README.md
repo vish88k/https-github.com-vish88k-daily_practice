@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0152-maximum-product-subarray) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0209-minimum-size-subarray-sum) |
