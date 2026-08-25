@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0168-excel-sheet-column-title) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
