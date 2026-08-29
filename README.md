@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -359,4 +360,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
