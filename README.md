@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/1929-concatenation-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0134-gas-station) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Matrix
 |  |
