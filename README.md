@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0146-lru-cache](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0242-valid-anagram) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -376,5 +379,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vish88k/https-github.com-vish88k-daily_practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
